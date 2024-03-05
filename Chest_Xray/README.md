@@ -5,6 +5,7 @@ This project focuses on building a Convolutional Neural Network (CNN) for classi
 
 ## Dataset
 The dataset used in this project consists of chest X-ray images obtained from various sources, including Kaggle. The images are organized into three subfolders corresponding to the three categories: 'covid,' 'normal,' and 'pneumonia.' 
+
 Data Source: https://www.kaggle.com/datasets/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset?resource=download
 
 ## Model Architecture
